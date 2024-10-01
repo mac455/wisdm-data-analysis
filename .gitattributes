@@ -1,0 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Mining[[:space:]]Cw2.ipynb filter=lfs diff=lfs merge=lfs -text
