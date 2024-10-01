@@ -1,4 +1,4 @@
-## WISDM Dataset: Data Analysis and Visualisation
+# WISDM Dataset: Data Analysis and Visualisation
 ## Project Overview
 This project focuses on data analysis and visualisation using the WISDM dataset (Wireless Sensor Data Mining). The dataset contains accelerometer data collected from smartphones to recognise different human activities such as walking, jogging, sitting, and standing.
 
@@ -25,7 +25,7 @@ Python 3.x: The project is written in Python, with key libraries for data analys
 
 Jupyter Notebook: Used as the interactive environment for writing and running code.
 
-# Required Libraries:
+**Required Libraries:**
 
 pandas: For data manipulation and analysis.
 
