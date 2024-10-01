@@ -1,0 +1,38 @@
+##WISDM Dataset: Data Analysis and Visualisation
+##Project Overview
+This project focuses on data analysis and visualisation using the WISDM dataset (Wireless Sensor Data Mining). The dataset contains accelerometer data collected from smartphones to recognise different human activities such as walking, jogging, sitting, and standing.
+
+The objective of this project is to analyse the dataset to derive meaningful insights and visualise the patterns in the data. This project is carried out using Jupyter Notebook on Anaconda Navigator, with Python as the programming language for data processing, analysis, and visualisation.
+
+##Dataset
+The WISDM dataset contains accelerometer readings from smartphones used to monitor and recognise various human activities. It consists of time-stamped sensor data captured by accelerometers in mobile devices, tracking different actions like walking, jogging, sitting, and standing.
+
+Dataset URL: https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset
+
+##Project Structure
+The project consists of the following key files:
+
+Data Mining Cw2.ipynb: The Jupyter notebook that contains the code for data preprocessing, analysis, and visualisation.
+Data Mining Cw2 - Classifier.ipynb: This notebook contain clustering and classification of the dataset
+
+
+##Installation & Setup
+Prerequisites:
+Anaconda Navigator: Used to manage environments and launch Jupyter Notebooks.
+Python 3.x: The project is written in Python, with key libraries for data analysis.
+Jupyter Notebook: Used as the interactive environment for writing and running code.
+Required Libraries:
+pandas: For data manipulation and analysis.
+matplotlib and seaborn: For data visualisation.
+numpy: For numerical computations.
+scikit-learn: For data preprocessing and machine learning
+
+##Key Steps in the Project
+1. Data Loading
+2. Data Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Data Visualisation
+5. Clustering and Classification
+
+##Results and Conclusion
+This report analyses the WISDM dataset using visualisation methods to identify useful trends for HAR. A random forest classifier is applied to perform binary activity prediction. F1 score improved from 0.53 to 0.58 after applying SMOTE. This may be further improved by experimenting with other algorithms such as Gradient Boosting algorithm, but this experiment was limited by computational resources
