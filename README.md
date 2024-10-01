@@ -1,22 +1,22 @@
-##WISDM Dataset: Data Analysis and Visualisation
-##Project Overview
+## WISDM Dataset: Data Analysis and Visualisation
+## Project Overview
 This project focuses on data analysis and visualisation using the WISDM dataset (Wireless Sensor Data Mining). The dataset contains accelerometer data collected from smartphones to recognise different human activities such as walking, jogging, sitting, and standing.
 
 The objective of this project is to analyse the dataset to derive meaningful insights and visualise the patterns in the data. This project is carried out using Jupyter Notebook on Anaconda Navigator, with Python as the programming language for data processing, analysis, and visualisation.
 
-##Dataset
+## Dataset
 The WISDM dataset contains accelerometer readings from smartphones used to monitor and recognise various human activities. It consists of time-stamped sensor data captured by accelerometers in mobile devices, tracking different actions like walking, jogging, sitting, and standing.
 
 Dataset URL: https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset
 
-##Project Structure
+## Project Structure
 The project consists of the following key files:
 
 Data Mining Cw2.ipynb: The Jupyter notebook that contains the code for data preprocessing, analysis, and visualisation.
 Data Mining Cw2 - Classifier.ipynb: This notebook contain clustering and classification of the dataset
 
 
-##Installation & Setup
+## Installation & Setup
 Prerequisites:
 Anaconda Navigator: Used to manage environments and launch Jupyter Notebooks.
 Python 3.x: The project is written in Python, with key libraries for data analysis.
@@ -27,7 +27,7 @@ matplotlib and seaborn: For data visualisation.
 numpy: For numerical computations.
 scikit-learn: For data preprocessing and machine learning
 
-##Key Steps in the Project
+## Key Steps in the Project
 1. Data Loading
 2. Data Preprocessing
 3. Exploratory Data Analysis (EDA)
