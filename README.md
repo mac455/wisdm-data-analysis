@@ -13,6 +13,7 @@ Dataset URL: https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartw
 The project consists of the following key files:
 
 Data Mining Cw2.ipynb: The Jupyter notebook that contains the code for data preprocessing, analysis, and visualisation.
+
 Data Mining Cw2 - Classifier.ipynb: This notebook contain clustering and classification of the dataset
 
 
