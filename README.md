@@ -34,5 +34,5 @@ scikit-learn: For data preprocessing and machine learning
 4. Data Visualisation
 5. Clustering and Classification
 
-##Results and Conclusion
-This report analyses the WISDM dataset using visualisation methods to identify useful trends for HAR. A random forest classifier is applied to perform binary activity prediction. F1 score improved from 0.53 to 0.58 after applying SMOTE. This may be further improved by experimenting with other algorithms such as Gradient Boosting algorithm, but this experiment was limited by computational resources
+## Results and Conclusion
+A random forest classifier is applied to perform binary activity prediction. F1 score improved from 0.53 to 0.58 after applying SMOTE. This may be further improved by experimenting with other algorithms such as Gradient Boosting algorithm, but this experiment was limited by computational resources. The analysis provides insights into the sensor data and the characteristics of individuals in different activities. Visualisations demonstrate the patterns and relationships in the data, helping to understand how activities can be distinguished based on accelerometer/gyroscope readings. Identifying individual movement patterns would have useful applications in several industries. For example, Tracking individual movements helps trainers build personalised training regimes to improve performance or help healthcare professionals healthcare monitor the movement of elderly patients more closely. 
