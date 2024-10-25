@@ -21,19 +21,10 @@ Data Mining Cw2 - Classifier.ipynb: This notebook contain clustering and classif
 Prerequisites:
 Anaconda Navigator: Used to manage environments and launch Jupyter Notebooks.
 
-Python 3.x: The project is written in Python, with key libraries for data analysis.
+Python 3.x: 
 
-Jupyter Notebook: Used as the interactive environment for writing and running code.
+Jupyter Notebook: Used for writing and running code.
 
-**Required Libraries:**
-
-pandas: For data manipulation and analysis.
-
-matplotlib and seaborn: For data visualisation.
-
-numpy: For numerical computations.
-
-scikit-learn: For data preprocessing and machine learning
 
 ## Key Steps in the Project
 1. Data Loading
